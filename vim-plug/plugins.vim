@@ -21,5 +21,7 @@ Plug 'voldikss/vim-floaterm'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 
+" Dart Vim plugin https://github.com/dart-lang/dart-vim-plugin
+Plug 'dart-lang/dart-vim-plugin'
 
 call plug#end()
